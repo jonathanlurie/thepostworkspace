@@ -16,4 +16,14 @@ TheOctoPost can be seen as a blog engine, but it's not. It's a publishing platfo
 If your username on GitHub is `johnnybravo` and the folder name of your article (lowercase + dashes) is `my-fabulous-article`, then you can see and share your article at:  
 `https://theoctopress/johnnybravo/my-fabulous-article`
 
+
+Code test:  
+```js
+let someVar = 12
+
+function someFunc(arg){
+  return arg * 2
+}
+```
+
 ![](footer.jpg)
