@@ -1,5 +1,16 @@
 {
   "articles": [
     "getting-started"
-  ]
+  ],
+
+  "authors": {
+    "jonathanlurie": {
+      "displayName": "Jonathan Lurie",
+      "biography": "I'm a scientific software developer, with interests in computer graphics, but also film photography, cycling and being in the mountains.",
+      "links": {
+        "website": "https://jonathanlurie.fr",
+        "twitter": "https://twitter.com/jonathanlurie"
+      }
+    }
+  }
 }
