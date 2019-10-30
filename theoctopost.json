@@ -1,6 +1,7 @@
 {
   "articles": [
-    "getting-started"
+    "getting-started",
+    "dummy-article"
   ],
 
   "authors": {
