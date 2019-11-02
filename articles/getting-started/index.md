@@ -2,10 +2,10 @@
 
 # What is The Post?
 **ThePost**, or rather `thepost.io`, can be seen as a blog engine, but not exactly.  
-It's a publishing platform but not a writing platform: you write your articles on your mac or pc, in your favourite text editor, you push that on GitHub, and then they show up on `thepost.io!`  
+It's a publishing platform but not a writing platform: you write your articles on your mac or pc, in your favourite text editor, you push that on GitHub, and then they show up on [thepost.io](https://thepost.io) !  
 
 # How do I make content available on ThePost?
-1. Fork this repo (keep the name `mypostio`, it's important!)
+1. Fork this repo (keep the name `thepostworkspace`, it's important!)
 2. Create a folder in `articles/` for your fist article, using only lowercase letters and dashes instead of spaces
 3. Create a `config.json` inside the folder you've just created (or copy-paste the one from the `getting-started` article)
 4. Edit the fields of your fresh `config.json`
