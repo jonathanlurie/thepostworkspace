@@ -1,13 +1,12 @@
 {
   "articles": [
-    "getting-started",
-    "dummy-article"
+    "natural-neighbors-in-js"
   ],
 
   "authors": {
     "jonathanlurie": {
       "displayName": "Jonathan Lurie",
-      "biography": "I'm a scientific software developer, with interests in computer graphics, but also film photography, cycling and being in the mountains.",
+      "biography": "I'm a scientific software developer, with interests in computer graphics, but also film photography, cycling and being in the mountains. I currently work at the Blue Brain Project - EPFL, in Geneva, Switzerland.",
       "profilePicture": "https://me.jonathanlurie.fr/images/avatar.jpg",
       "links": {
         "website": "https://jonathanlurie.fr",

@@ -1,0 +1,8 @@
+{
+  "title": "Natural Neighbors in JS",
+  "author": "jonathanlurie",
+  "date": "12 March 2018",
+  "tags": "interpolation, sampling, javascript",
+  "excerpt": "What to do when you have some sparse measures and want to know the values in between?",
+  "cover": "cover.jpg"
+}
